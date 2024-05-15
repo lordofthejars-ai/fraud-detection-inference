@@ -1,0 +1,9 @@
+= Fraud Detection 
+
+Fraud Detection example based on https://access.redhat.com/documentation/en-us/red_hat_openshift_ai_cloud_service/1/html-single/openshift_ai_tutorial_-_fraud_detection_example/index but implemented in Java.
+
+Interesting things:
+
+* Predictor is RequestScope
+* Transformer for DJL for accomodating your model
+* Test
